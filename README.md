@@ -33,4 +33,4 @@ Or is the story even sadder? Are there really people who do this kind of thing j
 
 Was this done by people that had no other options left? Are we living in a time that art needs to be liquidated into cash (legally or illegally) because people really hit the bottom? How many art objects where lost that way during the war the stolen monument commemorated?
 
-I know (the) artwork. My family comes from Vriezenveen and surroundings. I myself grew up there."
+I know (knew) the artwork. My family comes from Vriezenveen and surroundings. I myself grew up there."
