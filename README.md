@@ -3,7 +3,7 @@ ProjectStolenWarMonument is my solution for replacing a stolen war monument in t
 
 ![tag alt](https://github.com/DeRaafMedia/ProjectStolenWarMonument/blob/master/bin/data/photoshop/ProjectStolenWarMonument_2.png)
 
-(Three possible silhouette's)
+(Three possible hollow outlines)
 
 ![tag alt](https://github.com/DeRaafMedia/ProjectStolenWarMonument/blob/master/bin/data/photoshop/dringend_vermaan.jpg)
 
