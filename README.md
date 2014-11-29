@@ -13,7 +13,7 @@ The initial monument was a bronze statue made by the dutch artist Janny Brugman-
 
 The monument was stolen in February 2014 [Translated news article -->](https://translate.google.nl/translate?sl=nl&tl=en&js=y&prev=_t&hl=nl&ie=UTF-8&u=http%3A%2F%2Fwww.bndestem.nl%2Falgemeen%2Fbinnenland%2Fburgemeester-ontzet-over-diefstal-beeld-oorlogsmonument-1.4213577&edit-text=)
 
-It was decided that making a replica of the original art work was not really viable, so the decision was made to replace the monument with a new one. I know this statue from my youth. It was one of my first contact with art that left an permanent impression.
+Making a replica of the original art work is not really seen as a viable option, so the decision was made to replace the monument with a new one. I know this statue from my youth. It was one of my first contact with art that left an permanent impression.
 
 My letter to the village counsel (Translated to English):
 
