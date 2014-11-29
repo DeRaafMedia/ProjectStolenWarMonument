@@ -1,11 +1,11 @@
 ProjectStolenWarMonument is my solution for replacing a stolen war monument in the village I grew up in.
 
 
-[alt tag](https://github.com/DeRaafMedia/ProjectStolenWarMonument/blob/master/bin/data/photoshop/ProjectStolenWarMonument_2.png)
+![tag alt](https://github.com/DeRaafMedia/ProjectStolenWarMonument/blob/master/bin/data/photoshop/ProjectStolenWarMonument_2.png)
 
 (Three possible silhouette's)
 
-[alt tag](https://github.com/DeRaafMedia/ProjectStolenWarMonument/blob/master/bin/data/photoshop/dringend_vermaan.jpg)
+![tag alt](https://github.com/DeRaafMedia/ProjectStolenWarMonument/blob/master/bin/data/photoshop/dringend_vermaan.jpg)
 
 (Original statue)
 
