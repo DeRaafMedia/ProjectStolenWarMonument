@@ -1,17 +1,16 @@
 ProjectStolenWarMonument is my solution for replacing a stolen war monument in the village I grew up in.
 
+(Three possible hollow outlines)
 
 ![tag alt](https://github.com/DeRaafMedia/ProjectStolenWarMonument/blob/master/bin/data/photoshop/ProjectStolenWarMonument_2.png)
 
-(Three possible hollow outlines)
+(Rough 3D Render)
 
 ![tag alt](https://github.com/DeRaafMedia/ProjectStolenWarMonument/blob/master/bin/data/photoshop/ProjectStolenWarMonument(3DRender).png)
 
-(Rough 3D Render)
+(Original statue)
 
 ![tag alt](https://github.com/DeRaafMedia/ProjectStolenWarMonument/blob/master/bin/data/photoshop/dringend_vermaan.jpg)
-
-(Original statue)
 
 The initial monument was a bronze statue made by the dutch artist Janny Brugman-de Vries [wiki -->](http://nl.wikipedia.org/wiki/Janny_Brugman-de_Vries) with the title "Dringend Vermaan" (which means something like "Urgent Exhort") [Special wiki initiative to inventory all war monuments in the Netherlands -->](http://www.4en5mei.nl/herinneren/oorlogsmonumenten/monumenten_zoeken/oorlogsmonument/1133).
 
