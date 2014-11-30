@@ -5,6 +5,10 @@ ProjectStolenWarMonument is my solution for replacing a stolen war monument in t
 
 (Three possible hollow outlines)
 
+![tag alt](https://github.com/DeRaafMedia/ProjectStolenWarMonument/blob/master/bin/data/photoshop/ProjectStolenWarMonument(3DRender).png)
+
+(Rough 3D Render)
+
 ![tag alt](https://github.com/DeRaafMedia/ProjectStolenWarMonument/blob/master/bin/data/photoshop/dringend_vermaan.jpg)
 
 (Original statue)
